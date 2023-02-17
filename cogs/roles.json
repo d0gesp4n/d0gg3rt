@@ -1,0 +1,42 @@
+[
+  {
+    "role_name": "@everyone",
+    "role_id": "708856456467841114"
+  },
+  {
+    "role_name": "pirates",
+    "role_id": "1025877625643745320"
+  },
+  {
+    "role_name": "d0gg3rt",
+    "role_id": "1021945952162037854"
+  },
+  {
+    "role_name": "Taco",
+    "role_id": "1018642389784608871"
+  },
+  {
+    "role_name": "Trello",
+    "role_id": "1018641602287243284"
+  },
+  {
+    "role_name": "familia",
+    "role_id": "1014996692615036938"
+  },
+  {
+    "role_name": "Overlord",
+    "role_id": "941352494741725285"
+  },
+  {
+    "role_name": "h4ck3rs",
+    "role_id": "941352191887831100"
+  },
+  {
+    "role_name": "voyeurs",
+    "role_id": "941352050611089461"
+  },
+  {
+    "role_name": "sys admins",
+    "role_id": "941351732150161538"
+  }
+]
